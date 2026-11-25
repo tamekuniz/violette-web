@@ -15,6 +15,6 @@ Static HTML, no build step. Publishes automatically via GitHub Pages from `main`
 - `style.css` — shared styles
 - `violette-icon.png` / `violette-full.png` — app icon assets
 
-## DMG distribution
+## ZIP distribution
 
-Notarized DMG builds are uploaded as GitHub **Releases** on this repo. The site's Download button links to `/releases/latest`.
+Notarized ZIP builds (Violette.zip) are uploaded as GitHub **Releases** on this repo. The site's Download button links to `/releases/latest`.
