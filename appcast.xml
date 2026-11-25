@@ -6,6 +6,14 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Violette</title>
         <item>
+            <title>1.2.1</title>
+            <pubDate>Wed, 25 Nov 2026 20:19:54 +0900</pubDate>
+            <sparkle:version>100000295</sparkle:version>
+            <sparkle:shortVersionString>1.2.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/tamekuniz/violette-web/releases/download/v1.2.1/Violette.zip" length="18698410" type="application/octet-stream" sparkle:edSignature="kRVH0pLxVMdZKMfcDCTsfVgYEsbQtdvhw9tQN6/WhIJGfy6AQRScOY1mb3Rv0MSO47NSjVLlX5DC5NT+21JHBg=="/>
+        </item>
+        <item>
             <title>1.2</title>
             <pubDate>Wed, 25 Nov 2026 16:27:33 +0900</pubDate>
             <sparkle:version>100000293</sparkle:version>
@@ -32,6 +40,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: ZpsFl8b6wtCAExBgFSTbyylVAGS/aXtWiDDTAigQk4dnOhZ040qL+gEW0cjgHW0Ds3pUNCam0u3fl8Jbzw5xCQ==
-length: 2241
+edSignature: rieJoHVpxkL2PIV9bXP9upSeYyX7doTEjVsMxJ3NHW/OOMcV7jM8ma9zxwOqqJnY8kczp4Ofs+lbvrb/QXp/Bg==
+length: 2850
 -->
